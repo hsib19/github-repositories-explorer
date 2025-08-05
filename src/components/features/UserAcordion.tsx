@@ -34,7 +34,7 @@ const UserAccordion: React.FC<UserAccordionProps> = ({
             </div>
 
             <div
-                className={`overflow-hidden transition-all duration-300 ease-in-out ${isOpen ? 'max-h-96' : 'max-h-0'
+                className={`overflow-hidden transition-all duration-300 ease-in-out ${isOpen ? '' : 'max-h-0'
                     }`}
                 data-testid={`accordion-content-${index}`}
             >

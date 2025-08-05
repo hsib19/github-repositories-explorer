@@ -1,5 +1,7 @@
 # GitHub Repositories Explorer
 
+![CI](https://github.com/hsib19/github-repositories-explorer/actions/workflows/deploy.yml/badge.svg)
+
 A simple and responsive React + Vite application for exploring GitHub users and their public repositories. Built with TypeScript and styled using Tailwind CSS. Includes unit and end-to-end testing support.
 
 ---

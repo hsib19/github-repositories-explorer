@@ -4,6 +4,12 @@ A simple and responsive React + Vite application for exploring GitHub users and 
 
 ---
 
+## Live Demo
+
+👉 [View the app](https://hsib19.github.io/github-repositories-explorer/)
+
+---
+
 ## Features
 
 - Search GitHub users by username
@@ -139,9 +145,3 @@ src/
 │   └── main.test.tsx
 
 ```
-
----
-
-## License
-
-This project is open source and available under the MIT License.
